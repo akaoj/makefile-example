@@ -1,0 +1,8 @@
+/api.egg-info
+/api.pex
+
+/.pex
+/.pytest_cache
+**/__pycache__
+
+/venv/
